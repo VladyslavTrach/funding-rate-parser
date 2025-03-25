@@ -1,0 +1,2 @@
+- too slow
+- fix bingX
