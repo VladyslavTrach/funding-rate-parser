@@ -103,7 +103,7 @@ PyMsgBox==1.0.9
 pyOpenSSL==24.1.0
 pyparsing==3.1.2
 pyperclip==1.8.2
-pyppeteer==2.0.0
+pyppeteer
 PyRect==0.2.0
 PyScreeze==0.1.30
 PySocks==1.7.1
@@ -127,7 +127,6 @@ scikit-image==0.22.0
 scipy==1.12.0
 selenium==4.18.1
 selenium-wire==5.1.0
-selenium_dolphin @ file:///C:/Users/vlad0/Desktop/selenium_dolphin-1.0.6-py3-none-any.whl#sha256=153b9e3ea462f0629416e9af39881f511123b51a91e264d62f6c95d093978b70
 selenium_driverless==1.8.0.2
 setuptools==74.1.1
 six==1.16.0
